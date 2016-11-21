@@ -8,7 +8,7 @@ Steps to run the application
 2) Boot up the application (run the command from the location where the application is downloaded)
     mvn spring-boot:run
     
-Rest Endpoints to test 
+Rest Endpoints to test
 
 1) Retrieve the number of seats available
 http://localhost:8080/ticket-reservation/seatsAvailable
@@ -50,7 +50,6 @@ Default Configuration
 1) Session expiration time is 60 seconds (1 minute) as defined in the application.properties.
 The number of retries to HOLD a seat is 3 after which the request will fail.
 
-Thanks
  
 
 

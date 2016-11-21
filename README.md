@@ -6,7 +6,7 @@ Steps to run the application
 1) Build the project using maven
 	mvn clean install
 2) Boot up the application (run the command from the location where the application is downloaded)
-    mvn spring-boot:run 
+    mvn spring-boot:run
     
 Rest Endpoints to test
 

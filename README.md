@@ -49,6 +49,8 @@ Default Configuration
 
 1) Session expiration time is 60 seconds (1 minute) as defined in the application.properties.
 The number of retries to HOLD a seat is 3 after which the request will fail.
+
+Thanks
  
 
 

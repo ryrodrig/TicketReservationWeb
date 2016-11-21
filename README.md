@@ -8,7 +8,7 @@ Steps to run the application
 2) Boot up the application (run the command from the location where the application is downloaded)
     mvn spring-boot:run
     
-Rest Endpoints to test
+Rest Endpoints to test 
 
 1) Retrieve the number of seats available
 http://localhost:8080/ticket-reservation/seatsAvailable
